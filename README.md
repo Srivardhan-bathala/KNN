@@ -1,0 +1,1 @@
+This repository contains a Jupyter notebook and accompanying documentation on implementing the k-Nearest Neighbors (KNN) algorithm using the Breast Cancer Wisconsin (Diagnostic) dataset. The notebook demonstrates how to preprocess the dataset, apply the KNN algorithm for classification, and evaluate its performance.
